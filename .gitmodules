@@ -4,3 +4,6 @@
 [submodule "trackers/strong_sort/deep/reid"]
 	path = trackers/strong_sort/deep/reid
 	url = https://github.com/KaiyangZhou/deep-person-reid
+[submodule "YoloStereo3D"]
+	path = YoloStereo3D
+	url = https://github.com/danukadj/YoloStereo3D.git
