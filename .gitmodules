@@ -7,3 +7,6 @@
 [submodule "YoloStereo3D"]
 	path = YoloStereo3D
 	url = https://github.com/danukadj/YoloStereo3D.git
+[submodule "visualDet3D"]
+	path = visualDet3D
+	url = https://github.com/danukadj/visualDet3D.git
